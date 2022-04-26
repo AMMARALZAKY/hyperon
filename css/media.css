@@ -1,0 +1,1113 @@
+
+
+
+     /* /////////////////////////////////////////////////////// 1025 lg الشاشات   /////////////////////////////// */
+@media only screen and (max-width: 1025px) {
+    header{
+        height: 50px;
+        width: 100%;
+        padding: 0;
+        text-align: center;
+    }
+    .nav-right{
+        width: 85%;
+        order: 2;
+        padding: 0px;
+        
+    }
+    .nav-right .logo{
+        width: 100%;
+    }
+    .nav-right .logo img{
+        padding: 10px 1px;
+        
+    }
+    .nav-right .list {
+        display: none;
+        
+    }
+    .nav-right .list-1 {
+        display: none;
+        
+    }
+    .nav-left a:first-child{
+        display: none;
+    }
+    .nav-left{
+        order: 1;
+        padding: 15px 15px;
+        width: 10%;
+    }
+    .nav-left a{
+        padding: 0px;
+    }
+    .header-trns{
+       padding-top: 50px;
+    }
+
+    .one-trns-title .span-03{
+        display: none;
+    }
+    .one-trns-title .span-02{
+        display: none;
+    }
+
+    .one-trns-title{
+    
+margin-top: 5%;
+       
+    }
+    .trns-title h5{
+        letter-spacing: 25px;
+    
+    }
+
+    .trns-title h1{
+        letter-spacing: 15px;
+        margin: 15px 0px;
+    }
+    .contienr-1{
+        padding: 0px 35px;
+       
+    }
+    .contienr .title{
+        text-align: center;
+        width: 40%;
+        margin: 50px auto;
+        border:0px ;
+    
+    }
+
+    .contienr-1-img{
+    
+        justify-content:space-evenly;
+        
+    }
+    .t-1{
+        width: 30%;
+        margin-bottom: 20px;
+        height:auto;
+       
+    }
+
+ 
+
+
+    .man-1{
+    
+        width: 50%;
+        height: 450px;
+    }
+    .man-2{
+    
+        width: 50%;
+    
+    }
+
+    .women{
+    
+        margin: 80px 30px;
+        height: 800px;
+    }
+   
+    .text-women{
+        width: 40%;
+        margin: 50px auto 75px;
+
+    } 
+    
+ .img-women{
+    height: 300px;
+} 
+.img-women .img-women-1{
+
+    height: 400px;
+  
+}
+ 
+.img-women .img-women-2 p {
+    display: none;
+}
+
+ .img-women .img-women-2 h2{
+    padding: 0px;
+    margin-top: 10px;
+  
+  } 
+   .img-women .img-women-2 h4 a{
+    margin-top: 10px;
+    padding-bottom: 7px;
+  
+  } 
+  .shoise{
+    padding:  0px;
+
+}
+
+ .shoise-text{
+
+  padding: 0px;
+  padding-right: 10px;
+    top: 20%;
+    right: 20%;
+    height: 300px;
+    
+}
+
+.table{
+    flex-wrap: wrap;
+    padding: 0px 50px;
+}
+
+.table-1{
+    width: 77%;
+    padding: 35px 5px;
+    margin:0px auto 35px;
+    
+    
+
+
+
+}
+
+.table-2{
+    width: 77%;
+    padding: 25px 5px;
+    margin:0px auto 35px;
+}
+
+.search{
+    flex-wrap: wrap;
+    align-content: center;
+    padding:100px 50px ;
+    height: 300px;
+    background-size:cover;
+
+}
+
+
+.search .subscribe{
+    width: 100%;
+    font-size: 27px;
+    color: white;
+    border: 0px;
+    height: 60px;
+    margin-bottom: 35px;
+
+}
+
+.search-two{
+    width: 100%;
+    display: flex;
+
+    
+}
+
+.search-two input[type="search"]{
+    width: 70%;
+    height: 60px;
+   padding: 0px 10px;
+
+   
+
+}
+.search-two input[type="submit"]{
+    width: 30%;
+    height: 60px;
+    
+
+
+}
+
+
+footer h5{
+    padding-top:35px;
+} 
+
+.chat-end{
+    border-radius: 100px;
+    width: 30px;
+    padding: 10px 0px 10px 10px;
+}
+
+.chat-end a span{
+    display: none;
+  
+}
+
+}
+
+
+      /* /////////////////////////////////////////////////////// 768 md الشاشات   /////////////////////////////// */
+
+@media only screen and (max-width: 768px) {
+    header{
+        height: 50px;
+        width: 100%;
+        padding: 0;
+        text-align: center;
+    }
+    .nav-right{
+        width: 85%;
+        order: 2;
+        padding: 0;
+        
+    }
+    .nav-right .logo{
+        width: 100%;
+    }
+    .nav-right .logo img{
+        padding: 10px 1px;
+        
+    }
+    .nav-right .list {
+        display: none;
+        
+    }
+    .nav-right .list-1 {
+        display: none;
+        
+    }
+    .nav-left a:first-child{
+        display: none;
+    }
+    .nav-left{
+        order: 1;
+        padding: 15px 5px;
+        width: 10%;
+    }
+    .nav-left a{
+        padding: 0px;
+    }
+    .header-trns{
+        height: 500px;
+     padding-top: 50px;
+    
+    }
+    .one-trns-title{
+        margin-top: 15%;
+    }
+
+    .one-trns-title .span-03{
+        display: none;
+    }
+    .one-trns-title .span-02{
+        display: none;
+    }
+
+    .trns-title{
+    
+        margin:0%; 
+        padding: 0px;
+       
+    }
+    .trns-title h5{
+        letter-spacing: 15px;
+        font-size: 15px;
+    
+    }
+
+    .trns-title h1{
+        letter-spacing: 2px;
+        font-size: 45px;
+        margin: 15px 0px;
+    }
+    .contienr-1{
+        padding: 0px 35px;
+       
+    }
+    .contienr .title{
+        text-align: center;
+        width: 80%;
+        margin: 50px auto;
+        border: 0px;
+    
+    }
+
+    .contienr-1-img{
+    
+        justify-content:space-around;
+        
+    }
+    .t-1{
+        width: 40%;
+        margin-bottom: 20px;
+        height: auto;
+       
+    }
+
+
+    .man{
+    flex-wrap: wrap;
+        height: 900px;
+    }
+
+    .man-1{
+    
+        width: 100%;
+        height: 450px;
+    }
+    .man-2{
+    
+        width: 100%;
+        height: 450px;
+    
+    }
+    .women{
+    
+        margin: 80px 30px;
+        height: 650px;
+    }
+   
+    .text-women{
+        width: 100%;
+        margin: 50px auto 75px;
+
+    } 
+    
+ .img-women{
+    height: 200px;
+} 
+.img-women .img-women-1{
+    height: 300px;
+    top: -22%;
+    background-position: top;
+  
+}
+.img-women .img-women-2 div{
+    display: none;
+}
+.img-women .img-women-2 p {
+    display: none;
+}
+
+ .img-women .img-women-2 h2{
+    padding: 0px;
+    margin-top: 10px;
+  
+  } 
+   .img-women .img-women-2 h4 a{
+    margin-top: 10px;
+    padding-bottom: 7px;
+  
+  } 
+  .shoise{
+    padding:  0px;
+    height: 700px;
+    background-image: url(../img/image-mainhome-2-1.jpg);
+    background-attachment: fixed;
+  
+}
+.shoise-one {
+background: transparent;
+    width: 80%;
+}
+ .shoise-text{
+    width: 100%;
+  padding: 0px;
+  padding-right: 10px;
+    top: 20%;
+    right: 20%;
+    height: 220px;
+    
+}
+.shoise img{
+    height: 500px;
+    position: absolute;
+    width: 70%;
+    top: 47%;
+    right: 25%;
+
+
+}
+.table{
+    flex-wrap: wrap;
+    padding: 0px 50px;
+    margin-top: 200px;
+
+}
+
+.table-1{
+    width: 77%;
+    padding: 35px 5px;
+    margin:0px auto 35px;
+    
+    
+
+
+
+}
+
+.table-2{
+    width: 77%;
+    padding: 25px 5px;
+    margin:0px auto 35px;
+}
+.search{
+    flex-wrap: wrap;
+    align-content: center;
+    padding:100px 50px ;
+    height: 300px;
+    background-size:cover;
+
+}
+
+
+.search .subscribe{
+    width: 100%;
+    font-size: 27px;
+    color: white;
+    border: 0px;
+    height: 60px;
+    margin-bottom: 35px;
+
+}
+
+.search-two{
+    width: 100%;
+    display: flex;
+
+    
+}
+
+.search-two input[type="search"]{
+    width:70%;
+    height: 60px;
+   padding: 0px 10px;
+
+   
+
+}
+.search-two input[type="submit"]{
+    width: 30%;
+    height: 60px;
+    
+
+
+}
+footer{
+    flex-direction: column;
+}
+footer ul{
+    width: 100%;
+}
+
+footer h5{
+padding: 0%;
+text-align: right;
+} 
+.market{
+    display: none;
+}
+.chat{
+    display: none;
+}
+.chat-end{
+    border-radius: 100px;
+    width: 30px;
+    padding: 10px 0px 10px 10px;
+}
+
+.chat-end a span{
+    display: none;
+  
+}
+
+}
+
+
+      /* /////////////////////////////////////////////////////// 576 sm الشاشات   /////////////////////////////// */
+
+@media only screen and (max-width: 576px) {
+    header{
+        height: 50px;
+        width: 100%;
+        padding: 0;
+        text-align: center;
+    }
+    .nav-right{
+        width: 85%;
+        order: 2;
+        padding: 0;
+        
+    }
+    .nav-right .logo{
+        width: 100%;
+    }
+    .nav-right .logo img{
+        padding: 10px 1px;
+        
+    }
+    .nav-right .list {
+        display: none;
+        
+    }
+    .nav-right .list-1 {
+        display: none;
+        
+    }
+    .nav-left a:first-child{
+        display: none;
+    }
+    .nav-left{
+        order: 1;
+        padding: 15px 5px;
+        width: 10%;
+    }
+    .nav-left a{
+        padding: 0px;
+    }
+    .header-trns{
+        height: 500px;
+        padding-top: 50px;
+    }
+    .one-trns-title{
+        margin-top: 20%;
+    }
+    .one-trns-title .span-03{
+        display: none;
+    }
+    .one-trns-title .span-02{
+        display: none;
+    }
+
+    .trns-title{
+    
+        margin:0%; 
+        padding: 0px;
+       
+    }
+    .trns-title h5{
+        letter-spacing: 15px;
+       
+    
+    }
+
+    .trns-title h1{
+        letter-spacing: 13px;
+        margin: 15px 0px;
+    }
+    .contienr-1{
+        padding: 0px 35px;
+       
+    }
+    .contienr .title{
+        text-align: center;
+        width: 85%;
+        margin: 50px auto;
+        border: 0px;
+    
+    }
+   
+    .t-1{
+
+        width:80%;
+        height: auto;
+    }
+    
+    .man{
+    flex-wrap: wrap;
+        height: 900px;
+    }
+
+    .man-1{
+    
+        width: 100%;
+        height: 450px;
+    }
+    .man-2{
+    
+        width: 100%;
+        height: 450px;
+    
+    }
+
+    .women{
+    
+        margin:100px 50px;
+        height: 900px;
+    }
+    .text-women{
+        width: 100%;
+        margin: 50px auto 75px;
+
+    }
+    
+.img-women{
+   border: 0px;
+    background-color: transparent;
+    height: 600px;
+}
+.img-women .img-women-1{
+
+    width: 100%;
+    height: 420px;
+    top: 0%;
+    left: 0%;
+}
+.img-women .img-women-2 div {
+    display: none;
+}
+.img-women .img-women-2 p {
+    display: none;
+}
+.img-women .img-women-2{
+    width: 100%;
+    top:75%;
+    right: 0%;
+}
+.img-women .img-women-2 h2{
+    padding: 0px;
+    margin: 0px;
+  
+  }
+  .img-women .img-women-2 h4 a{
+    margin-top: 10px;
+    padding-bottom: 7px;
+  
+  }
+  .shoise{
+    padding:  0px;
+    height: 800px;
+    background-image: url(../img/image-mainhome-2-1.jpg);
+    background-attachment: fixed;
+}
+.shoise-one {
+    background:transparent;
+    width: 80%;
+    
+}
+ .shoise-text{
+    width: 95%;
+  padding: 0px;
+  padding-right: 10px;
+    top: 23%;
+    right: 20%;
+    height: 300px;
+    
+}
+.shoise img{
+    height:450px;
+    position: absolute;
+    width: 80%;
+    top: 52%;
+    right: 5%;
+    
+
+
+}
+.table{
+    flex-wrap: wrap;
+    padding: 0px 50px;
+}
+
+.table-1{
+    width: 75%;
+    padding: 35px 5px;
+    margin:0px auto 45px;
+    
+
+
+
+}
+
+.table-2{
+    width: 75%;
+    padding: 25px 5px;
+    margin:0px auto 35px;
+}
+.search{
+    flex-wrap: wrap;
+    align-content: center;
+    padding:100px 50px ;
+    height: 400px;
+    background-size:cover;
+
+}
+
+
+.search .subscribe{
+    width: 100%;
+    font-size: 27px;
+    color: white;
+    height: 60px;
+    margin-bottom: 35px;
+    border: 0px;
+
+}
+
+.search-two{
+    width: 100%;
+    flex-wrap: wrap;
+
+    
+}
+
+.search-two input[type="search"]{
+    width: 100%;
+    height: 60px;
+   padding: 0px 10px;
+
+}
+.search-two input[type="submit"]{
+    background-color: white;
+    border: 0px;
+    width: 55%;
+    margin: 35px auto 0px 0px ;
+    height: 60px;
+
+
+
+}
+
+footer{
+flex-wrap: wrap;
+    padding:50px 70px;
+    text-align: right;
+}
+footer ul{
+    width: 100%;
+    text-align: right;
+
+}
+footer ul li{
+    text-align: right;
+    padding: 10px 0px;
+    width: 100%;
+}
+footer ul li hr{
+    display: none;
+}
+footer h5{
+    padding-top: 10px;
+}
+
+.market{
+    display: none;
+}
+.chat{
+    display: none;
+}
+.chat-end{
+    border-radius: 100px;
+    width: 30px;
+    padding: 14px 14px 14px 0px;
+    bottom: 2.5%;
+}
+
+.chat-end a span{
+    display: none;
+  
+}
+
+}
+
+
+      /* ///////////////////////////////////////////////////////300 xm الشاشات   /////////////////////////////// */
+@media only screen and (max-width: 300px) {
+        header{
+            height: 50px;
+            width: 100%;
+            padding: 0;
+            text-align: center;
+        }
+        .nav-right{
+            width: 85%;
+            order: 2;
+            padding: 0;
+            
+        }
+        .nav-right .logo{
+            width: 100%;
+        }
+        .nav-right .logo img{
+            padding: 10px 1px;
+            
+        }
+        .nav-right .list {
+            display: none;
+            
+        }
+        .nav-right .list-1 {
+            display: none;
+            
+        }
+        .nav-left a:first-child{
+            display: none;
+        }
+        .nav-left{
+            order: 1;
+            padding: 15px 5px;
+            width: 10%;
+        }
+        .nav-left a{
+            padding: 0px;
+        }
+        .header-trns{
+             height: 500px;
+            padding-top: 50px;
+        }
+        .header-trns .ovrlay {
+            height: 100%;
+            width: 100%;
+            padding-top: 10px;
+            background-color: rgba(0, 0, 0, 0.281);
+        }
+        .one-trns-title{
+            margin-top: 40%;
+        }
+        .one-trns-title .span-03{
+            display: none;
+        }
+        .one-trns-title .span-02{
+            display: none;
+        }
+    
+      
+        .trns-title h5{
+            letter-spacing: 15px;
+            font-size: 15px;
+        
+        }
+    
+        .trns-title h1{
+            letter-spacing: 2px;
+            font-size: 45px;
+            margin: 15px 0px;
+        }
+        .contienr-1{
+            padding: 0px 35px;
+           
+        }
+        .contienr .title{
+            text-align: center;
+            width: 100%;
+            margin: 50px auto;
+         border: 0px;
+        
+        }
+       
+        .t-1{
+    
+            width:100%;
+            margin-bottom: 20px;
+            height:auto;
+        }
+    
+        .man{
+        flex-wrap: wrap;
+            height: 1000px;
+        }
+    
+        .man-1{
+        
+            width: 100%;
+            height: 450px;
+        }
+        .man-2{
+        
+            width: 100%;
+            height: 550px;
+            padding: 0px 20px;
+        }
+        .man-2 .text-man-2{
+            width: 100%;
+            margin: 120px 0px;
+            height: 300px;
+        }
+    
+        .women{
+    
+            margin:100px 15px;
+            height: 820px;
+        }
+        .text-women{
+            width: 100%;
+            margin: 50px auto 75px;
+    
+        }
+        
+    .img-women{
+       border: 0px;
+        background-color: transparent;
+        height: 470px;
+    }
+    .img-women .img-women-1{
+    
+        width: 100%;
+        height: 320px;
+        top: 0%;
+        left: 0%;
+    }
+    .img-women .img-women-2 div {
+        display: none;
+    }
+    .img-women .img-women-2 p {
+        display: none;
+    }
+    .img-women .img-women-2{
+        width: 100%;
+        top:75%;
+        right: 0%;
+    }
+    .img-women .img-women-2 h2{
+        padding: 0px;
+        margin: 0px;
+      
+      }
+      .img-women .img-women-2 h4 a{
+        margin-top: 10px;
+        padding-bottom: 7px;
+      
+      }
+      .shoise{
+        padding:  0px;
+        height: 900px;
+        background-image: url(../img/image-mainhome-2-1.jpg);
+        background-attachment: fixed;
+    }
+    .shoise-one {
+        background-color: black;
+        width: 80%;
+        
+    }
+     .shoise-text{
+        width: 100%;
+      padding: 0px;
+      padding-right: 10px;
+        top: 20%;
+        right: 20%;
+        height: 400px;
+        
+    }
+    .shoise img{
+        height:300px;
+        position: absolute;
+        width: 80%;
+        top: 55%;
+        right: 5%;
+    
+    
+    }
+    .table{
+        flex-wrap: wrap;
+        padding: 0px 15px;
+        margin: 0%;
+    }
+    
+    .table-1{
+        width: 100%;
+        padding: 35px 15px;
+        margin:0px 0px 35px;
+        
+        
+    
+    
+    
+    }
+
+    .table-1 .div-2{
+        padding-bottom: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    .table-2{
+        width: 100%;
+        padding: 35px 15px;
+        margin:0px 0px 35px;
+        
+        
+    
+    
+    
+    }
+    
+    .table-2 .div-2{
+        padding-bottom: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .search{
+        flex-wrap: wrap;
+        align-content: center;
+        padding:100px 10px ;
+        height: 400px;
+        background-size:cover;
+
+    }
+    
+    
+    .search .subscribe{
+        width: 100%;
+        font-size: 27px;
+        color: white;
+        height: 60px;
+        margin-bottom: 35px;
+        border: 0px;
+        
+    
+    }
+    
+    .search-two{
+        width: 100%;
+        flex-wrap: wrap;
+    
+    }
+    
+    .search-two input[type="search"]{
+        width: 100%;
+        height: 60px;
+       padding: 0px 10px;
+    
+    }
+    .search-two input[type="submit"]{
+        background-color: white;
+        border: 0px;
+        height: 60px;
+        width: 50%;
+        margin: 35px auto 0px 0px ;
+    }
+    
+    footer{
+    flex-wrap: wrap;
+        padding:50px 70px;
+        text-align: right;
+    }
+    footer ul{
+        width: 100%;
+        text-align: right;
+    
+    }
+    footer ul li{
+        text-align: right;
+        padding: 10px 0px;
+        width: 100%;
+    }
+    footer ul li hr{
+        display: none;
+    }
+    footer h5{
+        padding-top: 10px;
+    }
+    
+    .market{
+        display: none;
+    }
+    .chat{
+        display: none;
+    }
+    .chat-end{
+        border-radius: 100px;
+        width: 30px;
+        padding: 15px 15px 15px 0px;
+    
+    }
+    
+    .chat-end a span{
+        display: none;
+      
+    }
+    
+    }
+
